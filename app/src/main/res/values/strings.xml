@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">DifferentIntents</string>
+    <string name="resultado3">Resultado 3</string>
+    <string name="resultado1">Resultado 1</string>
+    <string name="resultado2">Resultado 2</string>
+    <string name="numero2">Numero 2</string>
+    <string name="numero1">Numero 1</string>
+    <string name="inputn1" />
+    <string name="inputn2" />
+    <string name="sumar">Sumar</string>
+    <string name="camara">Camara!</string>
+    <string name="camarabutton">Take a photo!</string>
+    <string name="back">Go back</string>
+</resources>
